@@ -18,8 +18,8 @@ This study proposes a model-free adaptive iterative learning control strategy ba
 
 The `codes/` folder contains two separate simulation environments:
 
-- `codes/system1/` – MATLAB simulation for 2-DoF exoskeleton robot
-- `codes/system2/` – MATLAB simulation for 3-DoF exoskeleton robot
+- `codes/system 1/` – MATLAB simulation for 2-DoF exoskeleton robot
+- `codes/system 2/` – MATLAB simulation for 3-DoF exoskeleton robot
 
 To run a simulation:
 
