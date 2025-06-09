@@ -16,14 +16,17 @@ This study proposes a model-free adaptive iterative learning control strategy ba
 
 ## 🛠 Usage
 
-To run the MATLAB code:
+The `codes/` folder contains two separate simulation environments:
 
-1. Clone this repository to your local machine.
-2. Open the `.m` simulation scripts in MATLAB.
-3. Customize controller parameters if needed.
-4. Run the scripts to visualize the tracking performance and convergence behavior.
+- `codes/system1/` – MATLAB simulation for 2-DoF exoskeleton robot
+- `codes/system2/` – MATLAB simulation for 3-DoF exoskeleton robot
 
-> ✅ No commercial solver like MOSEK is required. YALMIP-compatible solvers such as **SDPT3** or **SeDuMi** are sufficient.
+To run a simulation:
+
+1. Open the desired folder in MATLAB.
+2. Open and run the `main.m` file.
+3. (Optional) Adjust parameters or initial conditions to explore different behaviors.
+4. The script will automatically generate plots showing tracking performance and convergence.
 
 ---
 
