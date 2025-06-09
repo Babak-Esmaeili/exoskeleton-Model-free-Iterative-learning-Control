@@ -14,6 +14,13 @@ This study proposes a model-free adaptive iterative learning control strategy ba
 
 ---
 
+## 🛠 Requirements
+
+- MATLAB R2018b or newer
+- No commercial solvers are required
+
+---
+
 ## 🛠 Usage
 
 The `codes/` folder contains two separate simulation environments:
